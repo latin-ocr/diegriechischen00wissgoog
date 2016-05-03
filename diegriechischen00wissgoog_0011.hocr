@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diegriechischen00wissgoog_0011.png"; bbox 0 0 1069 1525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 350 847 644 861">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 350 847 644 861">
+     <span class='ocr_line' id='line_1_1' title="bbox 350 847 644 861; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 350 847 424 860; x_wconf 61' lang='lat' dir='ltr'><strong>lizanum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 434 851 461 860; x_wconf 61' lang='lat' dir='ltr'><strong>usu</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 469 847 512 861; x_wconf 67' lang='lat' dir='ltr'><strong>Eunt</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 520 851 550 861; x_wconf 72' lang='lat' dir='ltr'><strong>osu.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 559 847 644 861; x_wconf 65' lang='lat' dir='ltr'><strong>fluctuum!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 412 878 579 892">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 412 878 579 892">
+     <span class='ocr_line' id='line_1_2' title="bbox 412 878 579 892; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 412 878 491 892; x_wconf 65' lang='lat' dir='ltr'><strong>warum-:n</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 494 886 498 889; x_wconf 89' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 502 879 579 892; x_wconf 72' lang='lat' dir='ltr'><strong>sun-mm</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
